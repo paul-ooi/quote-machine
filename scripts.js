@@ -1,3 +1,7 @@
+/* 
+QUOTES BY ROBERT FROST
+REF: https://www.brainyquote.com/authors/robert-frost-quotes
+*/
 var quoteArray = [
     "Two roads diverged in a wood and I - I took the one less traveled by, and that has made all the difference.",
     "In three words I can sum up everything I've learned about life: it goes on.",
