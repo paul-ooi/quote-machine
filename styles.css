@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+
+body {
+    font-family: 'Bitter', serif;
+}
+.frost-portrait {
+    border-radius: 50%;
+    max-height: 20em;
+}
+.timeline {
+    font-style: italic;
+}
+button {
+    background-color: bisque;
+    border-radius: 5px;
+    padding: 1em;
+    border: 2px solid tan;
+    font-weight: 700;
+    font-size: 1.15em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+header {
+    text-align: center;
+}
+
+hr {
+    margin: 3em;
+}
+
+blockquote {
+    background-color: antiquewhite;
+    padding: 2em;
+}
+
+cite {
+    text-align: right;
+    display: block;
+}
+cite::before {
+    content: "~";
+}
+
+footer {
+    text-align: center;
+}
